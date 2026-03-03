@@ -1,4 +1,4 @@
-# 📘 LearnLens — Exam Intelligence Platform
+# LearnLens — Exam Intelligence Platform
 
 Me and my friend built this during the Sprint4Good AI Hackathon at IIT Delhi — a 12 hour hackathon where we had to build something from scratch and present it the same day. We were a team of just 2 first-years, surrounded by bigger, more experienced teams from all corners of the country. Tough crowd. But we gave it our best shot.
 
@@ -134,15 +134,3 @@ This was built at the Sprint4Good AI Hackathon organised by IIT Delhi. We had 12
 We did not make it to the top 6. But a mentor did compare our Ask Question feature with ChatGPT live, and our response turned out to be more syllabus-aligned. That felt good.
 
 We came back with a lot of ideas and honestly, more drive than we left with.
-
----
-
-## Authors
-
-Built at IIT Delhi by two first-years who really needed sleep.
-
----
-
-## License
-
-MIT License
